@@ -1,16 +1,11 @@
 # mynews
 
-A new Flutter project.
+Une application qui permet de récupérer des news à partir d'une API
+Voici le lien de l'API https://newsapi.org/
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![news-app-2](https://user-images.githubusercontent.com/74613897/202177558-b62a0bc6-0a1e-4164-b988-8f2663a7a3d3.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+Le package utilisé est HTTP sur pubdev https://pub.dev/packages/http
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter-http-apps](https://user-images.githubusercontent.com/74613897/202177185-29e9a5ab-e4a7-4195-909a-e112bf83c7a4.jpg)
